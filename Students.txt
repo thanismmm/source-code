@@ -1,0 +1,10 @@
+0001:thanis:23:str
+0002:jafran:23:str
+0003:ruzait:23:str
+0004:sakib:20:oluvil
+0005:kumar:19:akp
+0006:haneef:19:akp
+0007:kevin:25:kalmunai
+0007:kumar:22:str
+0004:maryam:22:str
+0008:jhon:21:kalmunai
