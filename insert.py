@@ -6,7 +6,7 @@ f = "credential.txt"
 if signin(uid,pword,f) == True:
     i = 0
     while i < 1:
-        id = input("Enter Your Id No:",)
+        id = input("Enter Your Id Ndfj:",)
         name = input("Enter your Name:",).lower()
         age = input("Enter Your Age:",)
         location = input("Enter Your Location:",).lower()
